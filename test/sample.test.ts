@@ -1,4 +1,4 @@
-import { sum } from "../utils/calcutator";
+import { sum } from "../utils/calculator";
 
 describe('Sum test',() => {
     test('two plus two is four', () => {
@@ -6,5 +6,3 @@ describe('Sum test',() => {
     });
     
 })
-
-export{}

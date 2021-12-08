@@ -1,0 +1,29 @@
+{
+    "name": "앱-긴-이름",
+    "short_name": "앱-짧은-이름",
+    "theme_color": "#ff9a88",
+    "background_color": "#fcfcfc",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "이미지-이름-maskable.webp",
+        "sizes": "144x144",
+        "type": "image/webp",
+        "purpose": "maskable"
+      },
+      {
+        "src": "이미지-이름-maskable.webp",
+        "sizes": "192x192",
+        "type": "image/webp",
+        "purpose": "maskable"
+      },
+      {
+        "src": "이미지-이름.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
